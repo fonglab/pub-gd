@@ -1,1 +1,1 @@
-# pub-gd
+# Gamma Delta
